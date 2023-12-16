@@ -32,7 +32,7 @@ IPLookUp is a web application developed by John Ré Poras that provides informat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](licence.txt).
 
 ---
 
